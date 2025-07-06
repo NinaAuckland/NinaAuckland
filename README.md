@@ -3,7 +3,7 @@
 🎓 I have a Bachelor of Science in Statistics from the University of Auckland. 
 🎓 I am currently studying a Graduate Diploma in Information Sciences (GradDipInfoSc) at Massey University, studying part-time while managing family commitments.
 🌱 Former police detective. 
-🧠 Currently learning: C++, basic algorithms.  
+🧠 Currently learning: Web Development.  
 
 ### 🎓 Academic Progress
 - ✅ 159.101 – Applied Programming (Grade: A, 2024)
