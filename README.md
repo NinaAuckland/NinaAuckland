@@ -7,6 +7,6 @@
 
 ###  Academic Progress
 - 159.101 – Applied Programming (Grade: A, 2024)
-- 159.102 – Computer Science and Programming (Grade: A, 2025)
+- 159.102 - Computer Science and Programming (Grade: A, 2025)
 - 158.258 - Web Development (in progress)
 
